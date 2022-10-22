@@ -1,0 +1,25 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  #jokes{
+    background-color:black ;
+    color:white;
+    font-size: 20px;
+    text-align: center;
+    padding:10px;
+    height:70px;
+    margin-top: 100px;
+    border-style: dotted 10px;
+    border-width: 30px;
+    position:absolute;
+    border-radius: 25px;
+    width:30cm;
+    margin-left: 5%;
+  }
+  .h1{
+    text-align: center;
+    
+    padding: 30px;
+    font-size: 40px;
+  }
